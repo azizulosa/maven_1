@@ -1,0 +1,3 @@
+welcome to java interview questions part
+java basic
+basic programs
