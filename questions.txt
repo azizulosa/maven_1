@@ -2,3 +2,12 @@ welcome to java interview questions part
 java basic
 basic programs
 data type
+
+
+
+
+
+
+
+
+Thank you :)
