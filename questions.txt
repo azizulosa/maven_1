@@ -5,6 +5,10 @@ data type
 
 
 Oops Concept
+abstaction
+Encapsulation
+inheritance
+Polymorphism
 
 
 
